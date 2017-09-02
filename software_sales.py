@@ -1,7 +1,7 @@
-# May 26th, 2010
-# CS110
-# Amanda L. Moen
-# 5. Software Sales
+# Student’s Name
+# Tutor’s Name
+# 12. Software Sales
+# Date
 # A software company sells a package that retails for $99.
 # Quantity discounts are given according to the following table:
 #       Quantity        Discount
